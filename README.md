@@ -1,5 +1,5 @@
 # SimpleStorage.sol
-A simple Solidity smart contract for storing and retrieving a value
+A simple Solidity smart contract for storing and retrieving a value.
 
 Overview
 This repository contains a simple Solidity smart contract that demonstrates basic concepts of smart contract development. The contract includes functions for setting and getting a stored value.
