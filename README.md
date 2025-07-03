@@ -15,6 +15,7 @@ Deploy the Contract: Deploy the compiled contract to a blockchain network (e.g.,
 
 Code Explanation
 The contract uses Solidity version ^0.8.0. It includes two main functions:
+
 set(uint x): Sets the stored value to x.
 get(): Returns the currently stored value.
 
